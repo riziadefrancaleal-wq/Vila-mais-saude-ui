@@ -1,2 +1,2 @@
 # Vila-mais-saude-ui
-API do projeto Vila+Saúde  
+UI do projeto Vila+Saúde  
